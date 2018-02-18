@@ -12,7 +12,7 @@
 - [SSL](http://www.sslcommunity.io/) • *SSL is a community that was bought up due to scambaiting but has branched into other things such as tech and gaming.*
 - [TTtie](https://tttie.ga/#/discord) [Former Partner] • *A home place for all TTtie's bots that also has a poll channel, promotion channel, a channel to share your (potato) art, etc. We have also a NSFW channel and sometimes, but very rarely make some events.*
 - [TRM Community](https://discord.gg/ag59HVF) [Former Partner] • *An awesome Discord community for discussing ANYTHING, from anime to video games to your life. All right here.*
-- [NEO Lounge](https://discord.io/theneo) • *The NEO Lounge is a server based on technology and gaming, it is calm , fun and it currently has 240+ members. We think it's a good alternative because some of the old NC management team is here (Emily, Techfan). -Aria*
+- [NEO Lounge](https://discord.io/theneo) • *The NEO Lounge is a server based on technology and gaming, it is calm, fun and it currently has 240+ members. We think it's a good alternative because some of the old NC management team is here (Emily, Techfan). -Aria*
 
 
 ### Want to visit the old site?
