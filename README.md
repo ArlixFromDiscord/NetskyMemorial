@@ -11,6 +11,7 @@
 - [Novus](https://novuscommunity.co/) • *"Novus Community is a tech-based discord server which provides a simple and clean server for followers of Red_Eye_Computing & Da532 and other general techies." -Novus Website*
 - [Sam's Lounge](https://discord.gg/EJFMNmD) [Former Partner] • *Sam's Lounge is a community based on coding and technology and other topics!*
 - [SSL](http://www.sslcommunity.io/) • *SSL is a community that was bought up due to scambaiting but has branched into other things such as tech and gaming.*
+- [Stration](https://discord.me/stration) [Owned by Espi] • *A server where you can chill & talk about whatever, from tech, malware, to anything.*
 - [TTtie](https://tttie.ga/#/discord) [Former Partner] • *A home place for all TTtie's bots that also has a poll channel, promotion channel, a channel to share your (potato) art, etc. We have also a NSFW channel and sometimes, but very rarely make some events.*
 - [TRM Community](https://discord.gg/ag59HVF) [Former Partner] • *An awesome Discord community for discussing ANYTHING, from anime to video games to your life. All right here.*
 
